@@ -30,7 +30,7 @@
 <br>
 
 <div>
-<p>
+<p align="center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=adrienbelcastro&show_icons=true&theme=radical&line_height=27"  width="500" >
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adrienbelcastro&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical" width="500">
 </p>
