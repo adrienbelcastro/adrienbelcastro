@@ -4,7 +4,7 @@
 </div>
 
 <div>
-  <h2 style="border:none">About Me</h2>
+  <h2 align="center">About Me</h2>
    <p align="center">
     I'm a business student and tech entrepreneur transitioning into the software development industry 📱 I started my journey at the end of 2022 and I just finished a software engineering boot camp at BrainStation 🏛. I love learning and am passionate about developing my skills as a developer💡. I am fascinated by new technologies and leveraging them to solve real-life problems and build scalable applications 🧐. I hope to soon return to the tech space to build and scale another startup👨🏻‍💻.
   </p>
