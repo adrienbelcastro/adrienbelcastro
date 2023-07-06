@@ -29,13 +29,16 @@
 </div>
 <br>
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=adrienbelcastro&show_icons=true&theme=radical&line_height=27" width="700">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adrienbelcastro&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical" width="700">
+<div>
+<p>
+  <img  src = "https://github-readme-stats.vercel.app/api?username=adrienbelcastro&show_icons=true&theme=radical&line_height=27"  width="500" >
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adrienbelcastro&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical" width="500">
 </p>
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=adrienbelcastro&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" width="700"/>
+<p align="center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=adrienbelcastro&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"  width="700"/>
 </p>
+
+</div>
 
 ![snake gif](https://github.com/adrienbelcastro/adrienbelcastro/blob/output/github-contribution-grid-snake.svg)
