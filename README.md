@@ -1,5 +1,7 @@
+ <p align="center">
+  I'm a business student and tech entrepreneur transitioning into the software development industry  I just finished a software engineering boot camp at BrainStation 🏛. I love learning and am passionate about developing my skills as a developer💡. I am fascinated by new technologies and leveraging them to solve real-life problems and build scalable applications ✨. I hope to soon return to the tech space to build and scale another startup👨🏻‍💻.
+</p>  
 
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Q3cnlwcTdwZXNjNTEzbnltbHl6OWFlMXZpeG5tbGd4aXpkMmVmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbJYBCi69nyVOffLIU/giphy.gif" alt="Coder GIF" width="1000">
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
