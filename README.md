@@ -17,5 +17,4 @@
 
 </p>
 
-![snake gif]
-(https://github.com/adrienbelcastro/adrienbelcastro/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/adrienbelcastro/adrienbelcastro/blob/output/github-contribution-grid-snake.svg)
