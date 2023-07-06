@@ -1,6 +1,4 @@
- <div>
- <iframe src="https://giphy.com/embed/XbJYBCi69nyVOffLIU" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Wegow-lofi-wegow-XbJYBCi69nyVOffLIU">via GIPHY</a></p>
- </div>
+<img src="https://media.giphy.com/media/XbJYBCi69nyVOffLIU/giphy.gif"/>
  
  
  <p align="center">
