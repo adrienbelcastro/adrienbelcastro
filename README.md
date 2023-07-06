@@ -1,6 +1,5 @@
 <div>
-  <h1>Hello My Name is Adrien</h1>
-  <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="900"/>
+  <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="900"> <h1>Hello My Name is Adrien</h1></img>
 </div>
  
  
