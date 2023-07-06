@@ -1,5 +1,5 @@
 <div>
-  <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="900"> <h1>Hello My Name is Adrien</h1></img>
+  <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="900"> <h1>Hello My Name is Adrien! Please Relax and Stay Awhile</h1></img>
 </div>
  
  
