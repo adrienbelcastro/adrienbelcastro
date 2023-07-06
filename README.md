@@ -1,3 +1,8 @@
+ <div>
+ <iframe src="https://giphy.com/embed/XbJYBCi69nyVOffLIU" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Wegow-lofi-wegow-XbJYBCi69nyVOffLIU">via GIPHY</a></p>
+ </div>
+ 
+ 
  <p align="center">
   I'm a business student and tech entrepreneur transitioning into the software development industry  I just finished a software engineering boot camp at BrainStation 🏛. I love learning and am passionate about developing my skills as a developer💡. I am fascinated by new technologies and leveraging them to solve real-life problems and build scalable applications ✨. I hope to soon return to the tech space to build and scale another startup👨🏻‍💻.
 </p>
