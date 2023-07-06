@@ -10,7 +10,7 @@
 </div>
 
 <div>
-  <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+  <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="50"></h2>
   <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
@@ -35,6 +35,6 @@
 
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=adrienbelcastro&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" width="700"/>
-</p> 
+</p>
 
 ![snake gif](https://github.com/adrienbelcastro/adrienbelcastro/blob/output/github-contribution-grid-snake.svg)
