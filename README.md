@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql"/>
   <img src="https://img.shields.io/badge/-PlanetScale-black?style=flat-square&logo=planetscale"/>
   <img src="https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase"/>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
