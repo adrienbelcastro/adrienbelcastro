@@ -37,7 +37,7 @@
 
 <div>
 <p align="center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=adrienbelcastro&show_icons=true&theme=radical&line_height=27"  width="700" >
+  <img  src ="https://github.com/adrienbelcastro/adrienbelcastro/blob/main/github-skyline.gif"  width="1000" >
 </p>
 
 <p align="center">
