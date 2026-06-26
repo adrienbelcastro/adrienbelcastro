@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Portfolio-C8102E?style=for-the-badge&logo=vercel&logoColor=white" height="25" alt="Portfolio site link/>
   </a>
   <a href="https://www.brockuformularacing.ca" target="_blank">
-    <img src="https://img.shields.io/badge/Formula%20SAE-C8102E?style=for-the-badge&logo=gear&logoColor=white" height="25" alt="BUFR team link"/>
+    <img src="https://img.shields.io/badge/BrockU%20Formula%20Racing-C8102E?style=for-the-badge&logo=f1&logoColor=white" height="25" alt="BUFR team link"/>
   </a>
 </div>
 <br>
@@ -43,7 +43,7 @@ I took the long route into software engineering, which shaped how I think about 
 
 Currently, I’m the Software Lead for Brock Formula SAE, building systems that support engineering workflows and performance.
 
-Outside of development, I spend time in the gym or working on cars — usually to reset from screen-heavy problem solving.
+Outside of development, I spend time in the gym or working on cars — usually so my brain doesn't fry from staring at a screen all day.
 </p>
 
 </div>
@@ -145,7 +145,7 @@ Outside of development, I spend time in the gym or working on cars — usually t
 
 ## 📈 Showcase
 
-<img src="./profile-3d-contrib/profile-night-view.svg"/>
+
 
 </div>
 
@@ -155,6 +155,24 @@ Outside of development, I spend time in the gym or working on cars — usually t
 <div align="center">
 
 ## 📊 GitHub Stats
+
+<div data-importer="stats" align="left">
+  <div>
+    <img src="https://raw.githubusercontent.com/adrienbelcastro/adrienbelcastro/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1"             height="200" alt="stats graph"  />
+    <img src="https://raw.githubusercontent.com/adrienbelcastro/adrienbelcastro/trophy-output/trophy.svg?theme=tokyonight&column=5&row=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="200" alt="trophy graph"  />
+  </div>
+    <br>
+  <div> 
+    <img src="https://streak-stats.demolab.com?user=adrienbelcastro&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
+    <img src="https://raw.githubusercontent.com/adrienbelcastro/adrienbelcastro/languages-output/languages.svg?locale=en&hide_title=false&layout=default&card_width=500&langs_count=6&theme=tokyonight&hide_border=true&order=2&custom_title=Github%20Stats" height="100%" alt="languages       graph"  />
+  </div>
+    <br>
+    <img src="https://raw.githubusercontent.com/adrienbelcastro/adrienbelcastro/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=false&order=5&hide_border=true&hide_title=false" height="100%" alt="activity-graph graph"  />
+    <br>
+    <img src="./profile-3d-contrib/profile-night-view.svg"/>
+    <br>
+  </div>
+</div>
 
 ---
 
@@ -170,13 +188,6 @@ Outside of development, I spend time in the gym or working on cars — usually t
 
 </div>
 
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/adrienbelcastro/adrienbelcastro/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="1500" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/adrienbelcastro/adrienbelcastro/trophy-output/trophy.svg?theme=tokyonight&column=5&row=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://streak-stats.demolab.com?user=adrienbelcastro&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/adrienbelcastro/adrienbelcastro/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2&custom_title=Github%20Stats" height="195" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/adrienbelcastro/adrienbelcastro/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=false&order=5&hide_border=true&hide_title=false" height="100" alt="activity-graph graph"  />
-</div>
 
 ###
 
