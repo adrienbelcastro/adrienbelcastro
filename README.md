@@ -4,6 +4,9 @@
 
 <div>
   <h1 align="center">👋 Hello, I'm Adrien — Please Relax and Stay Awhile</h1>
+    <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;ML+%26+Neural+Net+Enthusiast;Software+Lead+%40+Brock+Racing+(FSAE)" alt="Typing SVG" />
+  </p>
   <p align="center">
     Business degree, bootcamp, now finishing a CS degree — I took the long way into software, and I think that's why I care about both the full-stack and the ML side of building things (right now that's software lead for Brock's Formula SAE team). Outside of building software you'll find me at the gym or messing with cars, mostly so my brain doesn't fry from staring at a screen all day.
   </p>
