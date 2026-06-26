@@ -40,9 +40,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/adrienbelcastro/adrienbelcastro/blob/main/github-skyline.gif" width="1000">
-</p>
+![](./profile-3d-contrib/profile-night-view.svg)
 
 <br>
 
