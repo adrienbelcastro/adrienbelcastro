@@ -6,7 +6,7 @@
 <div>
   <h2 align="center">About Me</h2>
    <p align="justify">
-    I'm a business student and tech entrepreneur transitioning into the software development industry 📱 I started my journey at the end of 2022, where I began to dabble in HTML and CSS and I ended up falling in love with it and was, and still am, eager to learn more. I just finished a software engineering boot camp at BrainStation 🏛. I love learning and am passionate about developing my skills as a developer💡. I am fascinated by new technologies and leveraging them to solve real-life problems and build scalable applications 🧐. I hope to soon return to the tech space to build and scale another startup👨🏻‍💻.
+    Business degree, bootcamp, now finishing a CS degree — I took the long way into software, and I think that's why I care about both the full-stack and the ML side of building things (right now that's software lead for Brock's Formula SAE team). Outside of building software you'll find me at the gym or messing with cars, mostly so my brain doesn't fry from staring at a screen all day..
   </p>
 </div>
 
