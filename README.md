@@ -32,6 +32,14 @@
 
 ---
 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/adrienbelcastro/adrienbelcastro/output/github-contribution-snake.svg" width="700">
+</div>
+<br>
+
+---
+
 <p align="center">
   <img src="https://github.com/adrienbelcastro/adrienbelcastro/blob/main/github-skyline.gif" width="1000">
 </p>
