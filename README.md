@@ -187,8 +187,8 @@ Indoor campus navigation app.
 
 <td align="center">
 
-<img src="https://github.com/user-attachments/assets/f6726d2f-c299-436a-9229-3559d2d6b009" width="175"/>
-<img src="https://github.com/user-attachments/assets/19040948-7dcb-4cc7-95fa-31301ee7c54b" width="175"/>
+<img src="https://github.com/user-attachments/assets/f6726d2f-c299-436a-9229-3559d2d6b009" width="200"/>
+<img src="https://github.com/user-attachments/assets/19040948-7dcb-4cc7-95fa-31301ee7c54b" width="200"/>
 
 ### 📈 Momentum
 
