@@ -276,8 +276,8 @@ Right now I’m focused on:
 
 <div data-importer="stats" align="left">
   <div>
-    <img src="https://raw.githubusercontent.com/adrienbelcastro/adrienbelcastro/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1"             height="200" alt="stats graph"  />
-    <img src="https://raw.githubusercontent.com/adrienbelcastro/adrienbelcastro/trophy-output/trophy.svg?theme=tokyonight&column=5&row=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="200" alt="trophy graph"  />
+    <img src="https://raw.githubusercontent.com/adrienbelcastro/adrienbelcastro/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1"             height="150" alt="stats graph"  />
+    <img src="https://raw.githubusercontent.com/adrienbelcastro/adrienbelcastro/trophy-output/trophy.svg?theme=tokyonight&column=5&row=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   </div>
     <br>
   <div> 
