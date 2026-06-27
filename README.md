@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://www.adrienbelcastro.ca">
-    <img src="https://img.shields.io/badge/Portfolio-C8102E?style=for-the-badge&logo=vercel&logoColor=white" height="25" alt="Portfolio site link/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25" alt="Portfolio site link/>
   </a>
   <a href="https://www.brockuformularacing.ca" target="_blank">
     <img src="https://img.shields.io/badge/BrockU%20Formula%20Racing-C8102E?style=for-the-badge&logo=f1&logoColor=white" height="25" alt="BUFR team link"/>
@@ -132,9 +132,12 @@ Outside of development, I spend time in the gym or working on cars — usually s
 
 | Project | Stack | Description |
 |--------|------|-------------|
-| 🏎 Formula SAE Platform | Next.js • Three.js | Engineering team platform for Brock Racing |
-| ☕ Coffee Shop System | Node.js • PostgreSQL • Stripe | Full-stack ordering + payments system |
-| 🧠 ML Experiments | Python | Neural network + ML exploration projects |
+| 🏎 Formula SAE Platform | Next.js | Engineering team platform for Brock Racing 
+| 🧭 Brock Campus Navigation | React Native • Node.js | Navigation Application For Brock University 
+| 🧠 Road Hazard Detection | Python • Yolov8 • Flask | Neural network + ML navigation app 
+| 📱 RentSwipe | Next.js • React Native | Rental app that connects landlords and tenants one swipe at a time
+| 🚀 Momentum | React • Node.js |Calorie Tracker that uses recipes instead of individual ingredients making tracking easier to do and easier to stick to 
+| ☕ Coffee Shop System | Next.js • PostgreSQL • Stripe | Full-stack ordering + payments system 
 
 </div>
 
@@ -150,6 +153,18 @@ Outside of development, I spend time in the gym or working on cars — usually s
 </div>
 
 ---
+
+<!-- UPCOMING -->
+<div align="center">
+
+## 🔮 Upcoming Projects
+
+🚧 Real-time Formula SAE telemetry dashboard  
+🚧 Scalable backend systems (event-driven architecture)  
+🚧 ML performance prediction models  
+🚧 Interactive 3D developer portfolio
+
+</div>
 
 <!-- STATS -->
 <div align="center">
@@ -173,27 +188,6 @@ Outside of development, I spend time in the gym or working on cars — usually s
     <br>
   </div>
 </div>
-
----
-
-<!-- UPCOMING -->
-<div align="center">
-
-## 🔮 Upcoming Projects
-
-🚧 Real-time Formula SAE telemetry dashboard  
-🚧 Scalable backend systems (event-driven architecture)  
-🚧 ML performance prediction models  
-🚧 Interactive 3D developer portfolio
-
-</div>
-
-
-###
-
-<h1 data-importer="text" align="center"></h1>
-
-###
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrienbelcastro/adrienbelcastro/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
