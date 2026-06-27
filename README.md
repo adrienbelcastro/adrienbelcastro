@@ -4,12 +4,11 @@
 <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="100%"/>
 
 <div align="center">
-  <div align="center">
-    <h2 style="margin-bottom: 10px;">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=35&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+I'm+Adrien;Full-Stack+Developer;ML+%26+Neural+Net+Enthusiast;Software+Lead+%40+Brock+FSAE" />
-    </h2  
-  </div>
-  <br>
+  <h2 style="margin-bottom: 10px;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=35&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+I'm+Adrien;Full-Stack+Developer;ML+%26+Neural+Net+Enthusiast;Software+Lead+%40+Brock+FSAE" />
+  </h2>  
+</div>
+<br>
 
 <!-- SOCIALS -->
 <div data-importer="socials" align="center">
@@ -23,7 +22,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://www.adrienbelcastro.ca">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25" alt="Portfolio site link/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25" alt="Portfolio site link"/>
   </a>
   <a href="https://www.brockuformularacing.ca" target="_blank">
     <img src="https://img.shields.io/badge/BrockU%20Formula%20Racing-C8102E?style=for-the-badge&logo=f1&logoColor=white" height="25" alt="BUFR team link"/>
@@ -41,6 +40,8 @@ Outside of development, I spend time in the gym or working on cars — usually s
 </p>
 
 </div>
+
+<br>
 
 <!-- TECH STACK -->
 <div align="center">
@@ -119,6 +120,8 @@ Outside of development, I spend time in the gym or working on cars — usually s
 
 ---
 
+<br>
+
 <!-- PROJECTS -->
 <div align="center">
 
@@ -130,35 +133,141 @@ Outside of development, I spend time in the gym or working on cars — usually s
 | 🧭 Brock Campus Navigation | React Native • Node.js | Navigation Application For Brock University 
 | 🧠 Road Hazard Detection | Python • Yolov8 • Flask | Neural network + ML navigation app 
 | 📱 RentSwipe | Next.js • React Native | Rental app that connects landlords and tenants one swipe at a time
-| 🚀 Momentum | React • Node.js |Calorie Tracker that uses recipes instead of individual ingredients making tracking easier to do and easier to stick to 
+| 📈 Momentum | React • Node.js |Calorie Tracker that uses recipes instead of individual ingredients making tracking easier to do and easier to stick to 
 | ☕ Coffee Shop System | Next.js • PostgreSQL • Stripe | Full-stack ordering + payments system 
 
 </div>
 
 ---
 
+<br>
+
 <!-- SHOWCASE -->
 <div align="center">
 
-## 📈 Showcase
+# 📈 Showcase
+
+<i>A few projects I've built.</i>
+
+<br>
+
+## 💻 Web Projects
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+<img src="https://github.com/user-attachments/assets/83ffd660-84be-4421-b7eb-ae3918ef2351" width="100%" />
+
+### 🚧 Road Hazard Detection
+
+Computer vision system for detecting road hazards in real time and finding the best route.
+
+</td>
 
 
+</table>
+
+<br>
+
+## 📱 Mobile Projects
+
+<table>
+<tr>
+
+<td align="center">
+
+<img src="https://github.com/user-attachments/assets/2cd6b614-4be1-4721-b280-0c7b3e0153aa" width="260"/>
+
+### 🧭 Brock Campus Navigation
+
+Indoor campus navigation app.
+
+</td>
+
+<td align="center">
+
+<img src="https://github.com/user-attachments/assets/f6726d2f-c299-436a-9229-3559d2d6b009" width="260"/>
+<img src="https://github.com/user-attachments/assets/19040948-7dcb-4cc7-95fa-31301ee7c54b" width="260"/>
+
+### 📈 Momentum
+
+Fitness & nutrition application.
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-<!-- UPCOMING -->
+<br>
+
+<!-- ROADMAP -->
 <div align="center">
 
-## 🔮 Upcoming Projects
+<h1>🚀 Roadmap</h1>
 
-🚧 Real-time Formula SAE telemetry dashboard  
-🚧 Scalable backend systems (event-driven architecture)  
-🚧 ML performance prediction models  
-🚧 Interactive 3D developer portfolio
+<i>Projects and features currently under active development.</i>
 
 </div>
+
+---
+
+## 🛣️ Road Hazard Detection 
+
+- [ ] Expand and rebalance the training dataset to improve hazard detection accuracy.
+- [ ] Improve model reliability across a wider range of road conditions.
+- [ ] Refine route generation to eliminate dead-end paths caused by waypoint selection.
+- [ ] Continue optimizing inference performance for real-time navigation.
+
+
+---
+
+## 📱 Brock Campus Navigation
+
+- [ ] Prepare the application for App Store release.
+- [ ] Improve indoor navigation accuracy and campus coverage.
+- [ ] Continue refining routing and user experience.
+
+
+---
+
+## 💪 Momentum
+
+- [ ] Complete a premium redesign with a cleaner, more modern interface.
+- [ ] Integrate an AI coach to:
+  - Encourage users to stay consistent.
+  - Generate personalized workout plans.
+  - Recommend nutrition plans based on user goals.
+- [ ] Build a proprietary nutrition database for more accurate macro and calorie tracking.
+- [ ] Compare nearby grocery stores to recommend the most affordable ingredients for meal plans.
+
+---
+
+## 🐶 Pet Care Platform
+
+- [ ] Real-time messaging between clients and pet care providers.
+- [ ] Online booking and scheduling.
+- [ ] Client approval workflow for new customers.
+- [ ] Business management dashboard for availability, bookings, and services.
+- [ ] Appointment reminders and booking notifications.
+
+---
+
+<div>
+## 🚀 Current Direction
+
+Right now I’m focused on:
+- Deploying ML systems into real-time applications
+- Improving performance and reliability of navigation tools
+- Building production-grade full-stack systems with React/React-Native + Node.js + Supabase
+
+</div>
+
+<br>
 
 <!-- STATS -->
 <div align="center">
