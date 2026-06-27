@@ -285,17 +285,19 @@ Right now I’m focused on:
     <img src="https://raw.githubusercontent.com/adrienbelcastro/adrienbelcastro/languages-output/languages.svg?locale=en&hide_title=false&layout=default&card_width=500&langs_count=6&theme=tokyonight&hide_border=true&order=2&custom_title=Github%20Stats" height="100%" alt="languages       graph"  />
   </div>
     <br>
+  <div>
     <img src="https://raw.githubusercontent.com/adrienbelcastro/adrienbelcastro/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=false&order=5&hide_border=true&hide_title=false" height="100%" alt="activity-graph graph"  />
+  </div>
     <br>
     <img src="./profile-3d-contrib/profile-night-view.svg"/>
     <br>
   </div>
 </div>
 
+<br>
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrienbelcastro/adrienbelcastro/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrienbelcastro/adrienbelcastro/pacman-output/galaga-contribution-graph.svg?game=galaga">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adrienbelcastro/adrienbelcastro/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
-
-###
