@@ -157,12 +157,11 @@ Outside of development, I spend time in the gym or working on cars — usually s
 <tr>
 <td align="center" width="100%">
 
-<img src="https://github.com/user-attachments/assets/83ffd660-84be-4421-b7eb-ae3918ef2351" width="100%" />
-
 ### 🚧 Road Hazard Detection
 
 Computer vision system for detecting road hazards in real time and finding the best route.
 
+<img src="https://github.com/user-attachments/assets/83ffd660-84be-4421-b7eb-ae3918ef2351" width="100%" />
 </td>
 
 
