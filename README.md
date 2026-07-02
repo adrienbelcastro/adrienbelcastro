@@ -177,23 +177,25 @@ Computer vision system for detecting road hazards in real time and finding the b
 
 <td align="center">
 
-<img src="https://github.com/user-attachments/assets/2cd6b614-4be1-4721-b280-0c7b3e0153aa" width="260"/>
 
 ### 🧭 Brock Campus Navigation
 
 Indoor campus navigation app.
 
+
+<img src="https://github.com/user-attachments/assets/2cd6b614-4be1-4721-b280-0c7b3e0153aa" width="260"/>
+
 </td>
 
 <td align="center">
 
-<img src="https://github.com/user-attachments/assets/f6726d2f-c299-436a-9229-3559d2d6b009" width="250"/>
-<img src="https://github.com/user-attachments/assets/19040948-7dcb-4cc7-95fa-31301ee7c54b" width="250"/>
 
 ### 📈 Momentum
 
 Fitness & nutrition application.
 
+<img src="https://github.com/user-attachments/assets/f6726d2f-c299-436a-9229-3559d2d6b009" width="250"/>
+<img src="https://github.com/user-attachments/assets/19040948-7dcb-4cc7-95fa-31301ee7c54b" width="250"/>
 </td>
 
 </tr>
