@@ -34,7 +34,7 @@
 Business degree → bootcamp → Computer Science degree.  
 I took the long route into software engineering, which shaped how I think about full-stack systems and machine learning.
 
-Currently, I’m the Software Lead for Brock Formula SAE, building systems that support engineering workflows and performance.
+Currently, I’m the Software & Electrical Systems Lead for Brock Formula SAE, building systems that support engineering workflows and performance.
 
 Outside of development, I spend time in the gym or working on cars — usually so my brain doesn't fry from staring at a screen all day.
 </p>
