@@ -124,7 +124,8 @@ Outside of development, I spend time in the gym or working on cars — usually s
 
 <!-- PROJECTS -->
 <div align="center">
-🚀 Projects
+  
+## 🚀 Projects
 
 | Project | Stack | Description |
 |--------|------|-------------|
@@ -258,7 +259,7 @@ Fitness & nutrition application.
 ---
 
 <div>
-## 🚀 Current Direction
+<h2>🚀 Current Direction</h2> 
 
 Right now I’m focused on:
 - Deploying ML systems into real-time applications
