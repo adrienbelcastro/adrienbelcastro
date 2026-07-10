@@ -124,8 +124,7 @@ Outside of development, I spend time in the gym or working on cars — usually s
 
 <!-- PROJECTS -->
 <div align="center">
-
-## 🚀 Projects
+🚀 Projects
 
 | Project | Stack | Description |
 |--------|------|-------------|
